@@ -1,0 +1,31 @@
+{
+  "sexoteste": {
+    "limite": 100,
+    "uso": 18
+  },
+  "sexo": {
+    "limite": 50,
+    "uso": 0
+  },
+  "Khizon": {
+    "limite": 9999999999,
+    "uso": 0
+  },
+  "Wilmo": {
+    "limite": 9999999999,
+    "uso": 0
+  },
+  "Zenitsu": {
+    "limite": 5,
+    "uso": 0
+  },
+  "Landin": {
+    "limite": 3,
+    "uso": 0
+  },
+    },
+  "promo": {
+    "limite": 999,
+    "uso": 0
+  }
+}
